@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>C:/Users/yangyuzhe/Desktop/QQ图片20210418104443.png</file>
+        <file>C:/Users/yangyuzhe/Desktop/图片2.png</file>
+        <file>C:/Users/yangyuzhe/Desktop/资源图片/The Wheat Field, 1881-副本1.jpg</file>
+    </qresource>
+</RCC>

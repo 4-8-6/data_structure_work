@@ -1,7 +1,7 @@
 # data_structure_work
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+数据结构大作业，使用python文件定向分割出部分需要的内容后使用系统进行曹祖
 
 #### Software Architecture
 Software architecture description
