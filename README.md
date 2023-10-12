@@ -4,7 +4,7 @@
 
 数据结构大作业，使用python文件定向分割出部分需要的内容后使用系统进行操作
 
-zs负责逻辑部分的编写
+zs负责逻辑部分的编写yyz_zs/solution.h和yyz_zs/solution.cpp
 
 yyz负责ui部分编写
 
